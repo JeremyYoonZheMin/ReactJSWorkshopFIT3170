@@ -1,0 +1,20 @@
+- Get everyone set up with the my-app and playground apps
+- Explain components and their parent child relationship
+- Explain how to create a component
+- Explain JSX and returning HTML in a component
+	- Everything must be within one element/div
+- Get everyone to create a component that displays something and put it on the main page in playground
+- Get everyone to create a child component and put it within the parent component
+- Explain CSS classes in React (Both className and having multiple classes)
+- Get everyone to apply at least two CSS classes to at least one component
+- Explain declaring and displaying variables within a component
+- Explain conditionals within JSX
+- Get everyone to create and use a variable within a component
+- Explain conditional rendering
+- Get everyone to make their component conditionally render, or something of the sort
+- Make sure everyone still has their parent child components working
+- Explain props
+	- Define named props ({firstName, lastName}), or unnamed props (props)
+- Get everyone to use props with their parent and child components
+- Explain useState
+- Get everyone to use useState with their components. Suggestion could be to create a toggle button in the parent component that toggles something in the child
